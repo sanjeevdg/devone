@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82286381972",
+    "project_id": "devproja-6528d",
+    "storage_bucket": "devproja-6528d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82286381972:android:d2bd15a794c98223f19d81",
+        "android_client_info": {
+          "package_name": "com.devproja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS0x7l9-rEuL4oslKGyeBwXMHjK8vIERs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
